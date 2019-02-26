@@ -1,0 +1,10 @@
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.exe.config
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.exe
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\bin\Debug\ScoreCalculator.pdb
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csprojAssemblyReference.cache
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.Form1.resources
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.Properties.Resources.resources
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.GenerateResource.cache
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.csproj.CoreCompileInputs.cache
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.exe
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\ScoreCalculator\ScoreCalculator\obj\Debug\ScoreCalculator.pdb

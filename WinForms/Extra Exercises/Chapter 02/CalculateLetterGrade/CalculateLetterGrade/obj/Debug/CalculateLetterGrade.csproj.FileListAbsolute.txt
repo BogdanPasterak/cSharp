@@ -1,0 +1,10 @@
+C:\Users\COB03\source\repos\Extra Exercises\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe.config
+C:\Users\COB03\source\repos\Extra Exercises\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.exe
+C:\Users\COB03\source\repos\Extra Exercises\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\bin\Debug\CalculateLetterGrade.pdb
+C:\Users\COB03\source\repos\Extra Exercises\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csprojAssemblyReference.cache
+C:\Users\COB03\source\repos\Extra Exercises\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.CalculateLetterGrade.resources
+C:\Users\COB03\source\repos\Extra Exercises\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.Properties.Resources.resources
+C:\Users\COB03\source\repos\Extra Exercises\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.GenerateResource.cache
+C:\Users\COB03\source\repos\Extra Exercises\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.csproj.CoreCompileInputs.cache
+C:\Users\COB03\source\repos\Extra Exercises\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.exe
+C:\Users\COB03\source\repos\Extra Exercises\Chapter 02\CalculateLetterGrade\CalculateLetterGrade\obj\Debug\CalculateLetterGrade.pdb

@@ -1,0 +1,10 @@
+c:\users\cob03\source\repos\Extra Exercises\Chapter 05-3\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.exe.config
+c:\users\cob03\source\repos\Extra Exercises\Chapter 05-3\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.exe
+c:\users\cob03\source\repos\Extra Exercises\Chapter 05-3\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\IncomeTaxCalculator.pdb
+c:\users\cob03\source\repos\Extra Exercises\Chapter 05-3\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.csprojAssemblyReference.cache
+c:\users\cob03\source\repos\Extra Exercises\Chapter 05-3\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.Form1.resources
+c:\users\cob03\source\repos\Extra Exercises\Chapter 05-3\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.Properties.Resources.resources
+c:\users\cob03\source\repos\Extra Exercises\Chapter 05-3\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.csproj.GenerateResource.cache
+c:\users\cob03\source\repos\Extra Exercises\Chapter 05-3\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.csproj.CoreCompileInputs.cache
+c:\users\cob03\source\repos\Extra Exercises\Chapter 05-3\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.exe
+c:\users\cob03\source\repos\Extra Exercises\Chapter 05-3\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\IncomeTaxCalculator.pdb

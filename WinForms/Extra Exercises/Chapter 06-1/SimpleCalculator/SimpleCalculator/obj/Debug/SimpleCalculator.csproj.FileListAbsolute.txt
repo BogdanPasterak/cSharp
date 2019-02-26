@@ -1,0 +1,10 @@
+c:\users\cob03\source\repos\Extra Exercises\Chapter 06-1\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+c:\users\cob03\source\repos\Extra Exercises\Chapter 06-1\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+c:\users\cob03\source\repos\Extra Exercises\Chapter 06-1\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+c:\users\cob03\source\repos\Extra Exercises\Chapter 06-1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+c:\users\cob03\source\repos\Extra Exercises\Chapter 06-1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Form1.resources
+c:\users\cob03\source\repos\Extra Exercises\Chapter 06-1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+c:\users\cob03\source\repos\Extra Exercises\Chapter 06-1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+c:\users\cob03\source\repos\Extra Exercises\Chapter 06-1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+c:\users\cob03\source\repos\Extra Exercises\Chapter 06-1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+c:\users\cob03\source\repos\Extra Exercises\Chapter 06-1\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb

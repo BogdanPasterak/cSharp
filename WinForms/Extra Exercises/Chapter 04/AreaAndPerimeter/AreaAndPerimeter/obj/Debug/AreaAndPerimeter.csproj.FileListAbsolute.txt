@@ -1,0 +1,10 @@
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe.config
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.exe
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\bin\Debug\AreaAndPerimeter.pdb
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csprojAssemblyReference.cache
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.Form1.resources
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.Properties.Resources.resources
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.GenerateResource.cache
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.csproj.CoreCompileInputs.cache
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.exe
+c:\users\cob03\source\repos\Extra Exercises\Chapter 04\AreaAndPerimeter\AreaAndPerimeter\obj\Debug\AreaAndPerimeter.pdb

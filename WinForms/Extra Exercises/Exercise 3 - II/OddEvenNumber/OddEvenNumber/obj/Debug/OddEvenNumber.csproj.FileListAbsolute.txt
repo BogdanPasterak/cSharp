@@ -1,0 +1,10 @@
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\OddEvenNumber\OddEvenNumber\bin\Debug\OddEvenNumber.exe.config
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\OddEvenNumber\OddEvenNumber\bin\Debug\OddEvenNumber.exe
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\OddEvenNumber\OddEvenNumber\bin\Debug\OddEvenNumber.pdb
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\OddEvenNumber\OddEvenNumber\obj\Debug\OddEvenNumber.csprojAssemblyReference.cache
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\OddEvenNumber\OddEvenNumber\obj\Debug\OddEvenNumber.Form1.resources
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\OddEvenNumber\OddEvenNumber\obj\Debug\OddEvenNumber.Properties.Resources.resources
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\OddEvenNumber\OddEvenNumber\obj\Debug\OddEvenNumber.csproj.GenerateResource.cache
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\OddEvenNumber\OddEvenNumber\obj\Debug\OddEvenNumber.csproj.CoreCompileInputs.cache
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\OddEvenNumber\OddEvenNumber\obj\Debug\OddEvenNumber.exe
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\OddEvenNumber\OddEvenNumber\obj\Debug\OddEvenNumber.pdb

@@ -1,0 +1,10 @@
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\TraineeList\TraineeList\bin\Debug\TraineeList.exe.config
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\TraineeList\TraineeList\bin\Debug\TraineeList.exe
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\TraineeList\TraineeList\bin\Debug\TraineeList.pdb
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\TraineeList\TraineeList\obj\Debug\TraineeList.csprojAssemblyReference.cache
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\TraineeList\TraineeList\obj\Debug\TraineeList.Form1.resources
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\TraineeList\TraineeList\obj\Debug\TraineeList.Properties.Resources.resources
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\TraineeList\TraineeList\obj\Debug\TraineeList.csproj.GenerateResource.cache
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\TraineeList\TraineeList\obj\Debug\TraineeList.csproj.CoreCompileInputs.cache
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\TraineeList\TraineeList\obj\Debug\TraineeList.exe
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\TraineeList\TraineeList\obj\Debug\TraineeList.pdb

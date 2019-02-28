@@ -1,0 +1,10 @@
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\ArrayNumber\ArrayNumber\bin\Debug\ArrayNumber.exe.config
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\ArrayNumber\ArrayNumber\bin\Debug\ArrayNumber.exe
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\ArrayNumber\ArrayNumber\bin\Debug\ArrayNumber.pdb
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\ArrayNumber\ArrayNumber\obj\Debug\ArrayNumber.csprojAssemblyReference.cache
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\ArrayNumber\ArrayNumber\obj\Debug\ArrayNumber.Form1.resources
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\ArrayNumber\ArrayNumber\obj\Debug\ArrayNumber.Properties.Resources.resources
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\ArrayNumber\ArrayNumber\obj\Debug\ArrayNumber.csproj.GenerateResource.cache
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\ArrayNumber\ArrayNumber\obj\Debug\ArrayNumber.csproj.CoreCompileInputs.cache
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\ArrayNumber\ArrayNumber\obj\Debug\ArrayNumber.exe
+c:\users\cob03\source\repos\Extra Exercises\Exercise 3 - II\ArrayNumber\ArrayNumber\obj\Debug\ArrayNumber.pdb

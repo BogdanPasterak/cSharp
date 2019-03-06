@@ -1,0 +1,10 @@
+C:\Users\COB03\source\repos\MyDrive\MyDrive\bin\Debug\MyDrive.exe.config
+C:\Users\COB03\source\repos\MyDrive\MyDrive\bin\Debug\MyDrive.exe
+C:\Users\COB03\source\repos\MyDrive\MyDrive\bin\Debug\MyDrive.pdb
+C:\Users\COB03\source\repos\MyDrive\MyDrive\obj\Debug\MyDrive.csprojAssemblyReference.cache
+C:\Users\COB03\source\repos\MyDrive\MyDrive\obj\Debug\MyDrive.frmEstimate.resources
+C:\Users\COB03\source\repos\MyDrive\MyDrive\obj\Debug\MyDrive.Properties.Resources.resources
+C:\Users\COB03\source\repos\MyDrive\MyDrive\obj\Debug\MyDrive.csproj.GenerateResource.cache
+C:\Users\COB03\source\repos\MyDrive\MyDrive\obj\Debug\MyDrive.csproj.CoreCompileInputs.cache
+C:\Users\COB03\source\repos\MyDrive\MyDrive\obj\Debug\MyDrive.exe
+C:\Users\COB03\source\repos\MyDrive\MyDrive\obj\Debug\MyDrive.pdb

@@ -1,0 +1,10 @@
+C:\Users\tst06\Source\Repos\StudentList\StudentList\bin\Debug\StudentList.exe.config
+C:\Users\tst06\Source\Repos\StudentList\StudentList\bin\Debug\StudentList.exe
+C:\Users\tst06\Source\Repos\StudentList\StudentList\bin\Debug\StudentList.pdb
+C:\Users\tst06\Source\Repos\StudentList\StudentList\obj\Debug\StudentList.csprojAssemblyReference.cache
+C:\Users\tst06\Source\Repos\StudentList\StudentList\obj\Debug\StudentList.Form1.resources
+C:\Users\tst06\Source\Repos\StudentList\StudentList\obj\Debug\StudentList.Properties.Resources.resources
+C:\Users\tst06\Source\Repos\StudentList\StudentList\obj\Debug\StudentList.csproj.GenerateResource.cache
+C:\Users\tst06\Source\Repos\StudentList\StudentList\obj\Debug\StudentList.csproj.CoreCompileInputs.cache
+C:\Users\tst06\Source\Repos\StudentList\StudentList\obj\Debug\StudentList.exe
+C:\Users\tst06\Source\Repos\StudentList\StudentList\obj\Debug\StudentList.pdb
